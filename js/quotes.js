@@ -1,0 +1,28 @@
+var quotes = [
+  { quote: "You can't reach old age by another man's road. My habits protect my life but they would assassinate you.",
+    source: 'Mark Twain',
+    citation: '70th Birthday Speech',
+    year: '1905',
+  },
+  { quote: "There two times in a man's life when he should not speculate: when he can't afford it and when he can.",
+    source: 'Mark Twain',
+    citation: ' Following the Equator',
+    year: '',
+  },
+  { quote: 'When red headed people are above a certain social grade their hair is auburn.',
+    source: 'Mark Twain',
+    citation: "A Connecticut Yankee in King Arthur's Court ",
+    year: '',
+  },
+  { quote: 'It would not be possible for Noah to do in our day what he was permitted to do in his own ... The inspector would come and examine the Ark, and make all sorts of objections.',
+    source: 'Mark Twain',
+    citation: 'About All Kinds of Ships',
+    year: '1892',
+  },
+  { quote: "All good things arrive unto them that wait--and don't die in the meantime.",
+    source: 'Mark Twain',
+    citation: 'Letter to Orion and Jane Clemens',
+    year: '1889',
+  }
+]
+console.log('quote file loaded');
